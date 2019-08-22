@@ -4,7 +4,7 @@
 传统飞机小游戏
 
 #### 在线试玩
-[码云:http://chenyoufu_1996.gitee.io/play-plane-game/](http://chenyoufu_1996.gitee.io/play-plane-game/)
+[码云:http://chenyoufu_1996.gitee.io/play-plane-game/](http://chenyoufu_1996.gitee.io/play-plane-game/)<br />
 [github:https://chenyouf1996.github.io/play-plane-game/](https://chenyouf1996.github.io/play-plane-game/)
 
 #### 使用引擎
