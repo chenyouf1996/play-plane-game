@@ -2,8 +2,7 @@
 
 ## 简介
 飞机大战
-### 在线试玩（github被墙时需要挂代理）
-gitee [http://chenyoufu_1996.gitee.io/play-plane-game/](http://chenyoufu_1996.gitee.io/play-plane-game/)   
+### 在线试玩（github被墙时需要挂代理） 
 github [https://chenyouf1996.github.io/play-plane-game/](https://chenyouf1996.github.io/play-plane-game/)
 
 ### 游戏引擎
