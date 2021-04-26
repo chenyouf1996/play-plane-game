@@ -1,8 +1,7 @@
 # play-plane-game
 
 #### 简介
-传统飞机小游戏
-
+飞机大战
 #### 在线试玩
 gitee(稳定进入) [http://chenyoufu_1996.gitee.io/play-plane-game/](http://chenyoufu_1996.gitee.io/play-plane-game/)   
 github [https://chenyouf1996.github.io/play-plane-game/](https://chenyouf1996.github.io/play-plane-game/)
