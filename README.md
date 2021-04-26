@@ -1,15 +1,15 @@
 # play-plane-game
 
-#### 简介
+## 简介
 飞机大战
-#### 在线试玩
-gitee(稳定进入) [http://chenyoufu_1996.gitee.io/play-plane-game/](http://chenyoufu_1996.gitee.io/play-plane-game/)   
+### 在线试玩（github被墙时需要挂代理）
+gitee [http://chenyoufu_1996.gitee.io/play-plane-game/](http://chenyoufu_1996.gitee.io/play-plane-game/)   
 github [https://chenyouf1996.github.io/play-plane-game/](https://chenyouf1996.github.io/play-plane-game/)
 
-#### 使用引擎
+### 游戏引擎
 CocosCreate
 
-#### 玩法介绍
+### 玩法介绍
 1. 我方: 血量200
 2. 敌方:
     - 基纽队长:紫色 血量50 飞行过程左右飘 碰撞掉血50
