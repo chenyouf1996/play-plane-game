@@ -1,9 +1,12 @@
+
 # play-plane-game
 
 ## 简介
 飞机大战
 ### 在线试玩（github被墙时需要挂代理） 
 github [https://chenyouf1996.github.io/play-plane-game/](https://chenyouf1996.github.io/play-plane-game/)
+
+![飞机大战演示图1](https://user-images.githubusercontent.com/51696131/118353493-0dbc4c80-b599-11eb-9ac0-99b481bfe199.gif)
 
 ### 游戏引擎
 CocosCreate
@@ -40,6 +43,7 @@ CocosCreate
     - 每秒得分+1
     - 基纽:5
     - 弗利沙:10
+
     - 拉迪茨:20
     - 贝吉塔:30
     - 滑稽:100
