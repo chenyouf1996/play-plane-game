@@ -8,6 +8,10 @@ github [https://chenyouf1996.github.io/play-plane-game/](https://chenyouf1996.gi
 
 ![飞机大战演示图1](https://user-images.githubusercontent.com/51696131/118353493-0dbc4c80-b599-11eb-9ac0-99b481bfe199.gif)
 
+![飞机大战演示图2](https://user-images.githubusercontent.com/51696131/118353940-262d6680-b59b-11eb-82fd-28cd71969ef0.gif)
+
+![飞机大战演示图3](https://user-images.githubusercontent.com/51696131/118353948-304f6500-b59b-11eb-9401-fe98e938bcc5.gif)
+
 ### 游戏引擎
 CocosCreate
 
