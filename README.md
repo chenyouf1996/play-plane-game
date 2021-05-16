@@ -2,8 +2,8 @@
 # play-plane-game
 
 ## 简介
-飞机大战
-### 在线试玩（github被墙时需要挂代理） 
+休闲小游戏
+### 在线试玩（需要挂代理访问） 
 github [https://chenyouf1996.github.io/play-plane-game/](https://chenyouf1996.github.io/play-plane-game/)
 
 ![飞机大战演示图1](https://user-images.githubusercontent.com/51696131/118353493-0dbc4c80-b599-11eb-9ac0-99b481bfe199.gif)
